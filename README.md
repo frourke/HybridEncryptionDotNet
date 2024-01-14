@@ -1,6 +1,8 @@
 # HybridEncryptionDotNet
 Sample .net8 application to implement the encryption process of a [hybrid cryptosystem](https://en.wikipedia.org/wiki/Hybrid_cryptosystem).
 
+The sample can be run on Windows, Linux and MacOS.
+
 The following settings are used.
 
 |Item|Value|
