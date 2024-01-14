@@ -1,7 +1,7 @@
 # HybridEncryptionDotNet
 Sample .net8 application to implement the encryption process of a [hybrid cryptosystem](https://en.wikipedia.org/wiki/Hybrid_cryptosystem).
 
-The sample can be run on Windows, Linux and MacOS.
+The sample can be run on Windows, Linux and MacOS from Visual Studio Code.
 
 The following settings are used.
 
@@ -34,6 +34,6 @@ For this sample the file payload is in the following format.
 .\xPlatformEncrypt.exe publicKey=C:\temp\publickey\myPublicKey.pem file=C:\temp\data\mydata_19042023.csv
 
 ## Debugging
-Update the debug configuration in launch.json with the desired pem and data file.
+Update the debug configuration in __.vscode\launch.json__ with the desired pem and data file.
 
 ![image](https://github.com/frourke/HybridEncryptionDotNet/assets/15794624/cffa32bb-0bab-463b-a798-382f351639db)
