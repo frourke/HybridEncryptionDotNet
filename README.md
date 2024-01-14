@@ -1,5 +1,5 @@
 # HybridEncryptionDotNet
-Sample .net8 application to implement the encryption process in a [hybrid cryptosystem](https://en.wikipedia.org/wiki/Hybrid_cryptosystem).
+Sample .net8 application to implement the encryption process of a [hybrid cryptosystem](https://en.wikipedia.org/wiki/Hybrid_cryptosystem).
 
 The following settings are used.
 
